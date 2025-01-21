@@ -1,0 +1,4 @@
+UserID,FullName,Email,PasswordHash,PhoneNumber,Role,CreatedAt
+1,John Doe,john.doe@example.com,hashedpassword1,1234567890,Customer,2025-01-01 10:00:00
+2,Jane Smith,jane.smith@example.com,hashedpassword2,0987654321,Admin,2025-01-02 12:00:00
+3,Alice Johnson,alice.j@example.com,hashedpassword3,1231231234,Customer,2025-01-03 15:00:00

@@ -1,0 +1,4 @@
+OrderItemID,OrderID,ArtworkID,Quantity,Price
+1,1,1,1,150000.00
+2,1,2,1,200000.00
+3,2,3,1,100000.00

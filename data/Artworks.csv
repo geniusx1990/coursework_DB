@@ -1,0 +1,4 @@
+ArtworkID,Title,ArtistID,CategoryID,Price,IsOriginal,StockQuantity,Description,ImageURL,CreatedAt
+1,The Weeping Woman,1,1,150000.00,True,1,"One of Picasso's famous paintings.","https://example.com/weeping-woman.jpg",2025-01-04 10:00:00
+2,Starry Night,2,3,200000.00,True,1,"A masterpiece by Van Gogh.","https://example.com/starry-night.jpg",2025-01-05 10:00:00
+3,Self-Portrait with Thorn Necklace,3,2,100000.00,True,1,"A famous self-portrait by Frida Kahlo.","https://example.com/self-portrait.jpg",2025-01-06 10:00:00
